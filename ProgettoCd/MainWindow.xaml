@@ -18,8 +18,8 @@
         <TextBox x:Name="txtAutoreModifica" HorizontalAlignment="Left" Margin="116,255,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151"/>
         <TextBox x:Name="txtDurataModifica" HorizontalAlignment="Left" Margin="116,299,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="151"/>
         <Label x:Name="lblTitoloModifica" Content="modificare titolo" HorizontalAlignment="Left" Margin="116,182,0,0" VerticalAlignment="Top" Width="151" Height="25"/>
-        <Label x:Name="lblAutore_Copy" Content="modificare autore" HorizontalAlignment="Left" Margin="116,225,0,0" VerticalAlignment="Top" Height="30" Width="151"/>
-        <Label x:Name="lblDurata_Copy" Content="modificare durata brano in secondi" HorizontalAlignment="Left" Margin="116,273,0,0" VerticalAlignment="Top" Width="192"/>
+        <Label x:Name="lblAutoreModifica" Content="modificare autore" HorizontalAlignment="Left" Margin="116,225,0,0" VerticalAlignment="Top" Height="30" Width="151"/>
+        <Label x:Name="lblDurataModifica" Content="modificare durata brano in secondi" HorizontalAlignment="Left" Margin="116,273,0,0" VerticalAlignment="Top" Width="192"/>
         <Button x:Name="btnModifica" Content="modifica brano" HorizontalAlignment="Left" Margin="10,182,0,0" VerticalAlignment="Top" Height="33"/>
         <TextBox x:Name="txtStingBrano" HorizontalAlignment="Left" Margin="481,90,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="txtStringCD" HorizontalAlignment="Left" Margin="481,152,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
